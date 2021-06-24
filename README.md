@@ -6,7 +6,9 @@ The practice task was to get familiar to git, skipped as a long time git user :s
 
 ## Week 2: SQL
 
-To be filled
+Some basic SQL practice were provided.
+
+[Pdf version](https://github.com/KrisCSu/data-science-bootcamp/blob/main/week02/Week%2002_%20SQL%20Practice%20Tasks.pdf) | [docx version](https://github.com/KrisCSu/data-science-bootcamp/blob/main/week02/Week%2002_%20SQL%20Practice%20Tasks.docx)
 
 ## Week 3: Python Libraries
 
