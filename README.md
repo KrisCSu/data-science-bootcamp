@@ -12,7 +12,9 @@ Some basic SQL practice were provided.
 
 ## Week 3: Python Libraries
 
-To be filled
+Some popular Python libraries were included in the practice such as [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), and [Seaborn](https://seaborn.pydata.org/).
+
+[Jupyter notebook](https://github.com/KrisCSu/data-science-bootcamp/blob/main/week03/Week_03_Task.ipynb)
 
 ## Week 4: Exploratory Data Analysis
 
